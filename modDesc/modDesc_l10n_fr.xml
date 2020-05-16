@@ -16,5 +16,90 @@
 		<text name="name_SmallWhiteGrainSiloExtension" 	text="Extension de petit silo à grain blanc"/>
 		<!-- <text name="typeDesc_EDGEGrainSilo" text="Les silos peuvent être utilisés pour stocker le grain"/> -->
 		<!-- <text name="function_EDGEGrainSiloExtension" text="It can be placed within 100 Meters of the farmsilo."/> -->
+			<!--Colors-->
+        <text name="color_ITRUNNERMATTE" 		text="IT RUNNER MAT"/>
+        <text name="color_EDGEGOLDMATTE" 		text="EDGE OR MAT"/>
+        <text name="color_EDGESILVERMATTE" 		text="EDGE ARGENT MAT"/>
+        <text name="color_CASEIHMATTE" 			text="CASE IH MAT"/>
+        <text name="color_NEWHOLLANDMATTE" 		text="NEW HOLLAND MAT"/>
+        <text name="color_KRONEMATTE" 			text="KRONE MAT"/>
+        <text name="color_YELLOWMATTE" 			text="JAUNE ÉLECTRIQUE MAT"/>
+        <text name="color_STARAMATTE" 			text="STARA MAT"/>
+        <text name="color_LELYMATTE" 			text="LELY MAT"/>
+        <text name="color_WHITEMATTE" 			text="BLANC FANTÔME MAT"/>
+        <text name="color_PURPLEMATTE" 			text="PERLE VIOLETTE MAT"/>
+        <text name="color_DARKBLUEMATTE" 		text="BLEU ROYAL MAT"/>
+        <text name="color_JOHNDEEREMATTE" 		text="JOHN DEERE MAT"/>
+        <text name="color_PINKMATTE" 			text="BARBIE ROSE MAT"/>
+
+		<text name="color_ITRUNNERCHROME" 		text="IT RUNNER CHROME"/>
+        <text name="color_EDGEGOLDCHROME" 		text="EDGE OR CHROME"/>
+        <text name="color_EDGESILVERCHROME" 	text="EDGE ARGENT CHROME"/>
+        <text name="color_CASEIHCHROME" 		text="CASE IH CHROME"/>
+        <text name="color_NEWHOLLANDCHROME" 	text="NEW HOLLAND CHROME"/>
+        <text name="color_KRONECHROME" 			text="KRONE CHROME"/>
+        <text name="color_YELLOWCHROME" 		text="JAUNE ÉLECTRIQUE CHROME"/>
+        <text name="color_STARACHROME" 			text="STARA CHROME"/>
+        <text name="color_LELYCHROME" 			text="LELY CHROME"/>
+        <text name="color_WHITECHROME" 			text="BLANC FANTÔME CHROME"/>
+        <text name="color_PURPLECHROME" 		text="PERLE VIOLETTE CHROME"/>
+        <text name="color_DARKBLUECHROME" 		text="BLEU ROYAL CHROME"/>
+        <text name="color_JOHNDEERECHROME" 		text="JOHN DEERE CHROME"/>
+        <text name="color_PINKCHROME" 			text="BARBIE ROSE CHROME"/>
+
+		<text name="color_ITRUNNERMETALLIC" 	text="IT RUNNER MÉTALLIQUE"/>
+        <text name="color_EDGEGOLDMETALLIC" 	text="EDGE OR MÉTALLIQUE"/>
+        <text name="color_EDGESILVERMETALLIC" 	text="EDGE ARGENT MÉTALLIQUE"/>
+        <text name="color_CASEIHMETALLIC" 		text="CASE IH MÉTALLIQUE"/>
+        <text name="color_NEWHOLLANDMETALLIC" 	text="NEW HOLLAND MÉTALLIQUE"/>
+        <text name="color_KRONEMETALLIC" 		text="KRONE MÉTALLIQUE"/>
+        <text name="color_YELLOWMETALLIC" 		text="JAUNE ÉLECTRIQUE MÉTALLIQUE"/>
+        <text name="color_STARAMETALLIC" 		text="STARA MÉTALLIQUE"/>
+        <text name="color_LELYMETALLIC" 		text="LELY MÉTALLIQUE"/>
+        <text name="color_WHITEMETALLIC" 		text="BLANC FANTÔME MÉTALLIQUE"/>
+        <text name="color_PURPLEMETALLIC" 		text="PERLE VIOLETTE MÉTALLIQUE"/>
+        <text name="color_DARKBLUEMETALLIC" 	text="BLEU ROYAL MÉTALLIQUE"/>
+        <text name="color_JOHNDEEREMETALLIC" 	text="JOHN DEERE MÉTALLIQUE"/>
+        <text name="color_PINKMETALLIC" 		text="BARBIE ROSE MÉTALLIQUE"/>
+
+		<text name="color_ITRUNNERSHINY" 		text="IT RUNNER SHINY"/>
+        <text name="color_EDGEGOLDSHINY" 		text="EDGE OR SHINY"/>
+        <text name="color_EDGESILVERSHINY" 		text="EDGE ARGENT SHINY"/>
+        <text name="color_CASEIHSHINY" 			text="CASE IH SHINY"/>
+        <text name="color_NEWHOLLANDSHINY" 		text="NEW HOLLAND SHINY"/>
+        <text name="color_KRONESHINY" 			text="KRONE SHINY"/>
+        <text name="color_YELLOWSHINY" 			text="JAUNE ÉLECTRIQUE SHINY"/>
+        <text name="color_STARASHINY" 			text="STARA SHINY"/>
+        <text name="color_LELYSHINY" 			text="LELY SHINY"/>
+        <text name="color_WHITESHINY" 			text="BLANC FANTÔME SHINY"/>
+        <text name="color_PURPLESHINY" 			text="PERLE VIOLETTE SHINY"/>
+        <text name="color_DARKBLUESHINY" 		text="BLEU ROYAL SHINY"/>
+        <text name="color_JOHNDEERESHINY" 		text="JOHN DEERE SHINY"/>
+        <text name="color_PINKSHINY" 			text="BARBIE ROSE SHINY"/>
+
+		<text name="color_ITRUNNER" 			text="IT RUNNER "/>
+        <text name="color_EDGEGOLD" 			text="EDGE OR "/>
+        <text name="color_EDGESILVER" 			text="EDGE ARGENT "/>
+        <text name="color_RED" 					text="CRAMOISIE GLOIRE"/>
+        <text name="color_KOBALT" 				text="COBALT"/>
+        <text name="color_GREEN" 				text="KELLY VERTE"/>
+        <text name="color_YELLOW" 				text="JAUNE ÉLECTRIQUE"/>
+        <text name="color_ORANGE" 				text="FLAMBER ORANGE"/>
+        <text name="color_LELY" 				text="LELY"/>
+        <text name="color_KRONE" 				text="KRONE"/>
+        <text name="color_ROMANSILVER" 			text="ROMAINE ARGENT"/>
+        <text name="color_PURPLE" 				text="PERLE VIOLETTE"/>
+        <text name="color_DARKBLUE" 			text="BLEU ROYAL"/>
+        <text name="color_NEWHOLLAND" 			text="NEW HOLLAND"/>
+        <text name="color_PINK" 				text="BARBIE ROSE"/>
+
+        <text name="color_DARKGREY"				text="NOIR FUMÉ"/>
+        <text name="color_BROWN" 				text="ROSE BULGARE"/>
+        <text name="color_CRIMSONGLORY" 		text="CRAMOISIE GLOIRE"/>
+        <text name="color_ALICEBLUE" 			text="ALICE BLEUE"/>
+        <text name="color_CYAN" 				text="EAU"/>
+        <text name="color_ANDROIDGREEN" 		text="ANDROID VERTE"/>
+        <text name="color_CORN" 				text="BLÉ"/>
+        <text name="color_AMBER" 				text="AMBRE"/>
 	</texts>
 </l10n>
