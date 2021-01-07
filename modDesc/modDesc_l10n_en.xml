@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <l10n>
 <author>Edge Gaming / Castiga</author>
-<translationby>Castiga</translationby>
+<translator>Castiga</translator>
 	<texts>
 		<text name="function_EDGEGrainSilo" 			text="This Building have automatic lighting."/>
 		<text name="name_SmallGrainSilo" 				text="Small Grain Silo"/>
