@@ -178,20 +178,38 @@ Elenco modifiche 1.0.0.0:
     <storeItems>
         <storeItem xmlFilename="data/EdgeSign.xml"/>
     </storeItems>
-	<l10n filenamePrefix="modDesc/modDesc_l10n"/>
     <brands>
         <brand name="EDGE" title="EDGE Industries" image="store/EDGE_Brand_Logo.dds"/>
     </brands>
-    <!-- <l10n>
-        <text name="name_MultiSellingStation">
-            <en>Multi Selling Station</en>
-            <de>Multi Verkaufsstation</de>
-            <fr>Poste De Vente Multiple</fr>
-            <es>Estación De Venta Múltiple</es>
-            <ru>Мультипродажная станция</ru>
-            <pl>Stacja Sprzedaży</pl>
+    <l10n filenamePrefix="modDesc/modDesc_l10n">
+        <text name="action_turnOnMarking">
+            <en>Show warning Stripes</en>
+            <de>Eckmarkierungen einblenden</de>
+            <fr>Afficher les rayures d'avertissement</fr>
+            <es>Mostrar franjas de advertencia</es>
+            <ru>Показать предупреждение полосы</ru>
+            <pl>Pokaż paski ostrzegawcze</pl>
+            <it>Mostra strisce di avviso</it>
         </text>
-    </l10n> -->
+        <text name="action_turnOffMarking">
+            <en>Hide warning Stripes</en>
+            <de>Eckmarkierungen ausblenden</de>
+            <fr>Masquer les bandes d'avertissement</fr>
+            <es>Ocultar rayas de advertencia</es>
+            <ru>Скрыть предупреждение полосы</ru>
+            <pl>Ukryj paski ostrzegawcze</pl>
+            <it>Nascondi le strisce di avvertimento</it>
+        </text>
+        <text name="function_EDGELights">
+            <en>This Building have Automatic Lighting.</en>
+            <de>Dieses Gebäude verfügt über eine automatische Beleuchtung.</de>
+            <fr>Ce bâtiment a l'éclairage automatique.</fr>
+            <es>Este edificio tiene iluminación automática.</es>
+            <ru>Это здание имеет автоматическое освещение.</ru>
+            <pl>Ten budynek ma automatyczne oświetlenie.</pl>
+            <it>Questo edificio ha l'illuminazione automatica.</it>
+        </text>
+    </l10n>
     <credits><![CDATA[
 ## Contributors
 - Castiga, EDGE Gaming
